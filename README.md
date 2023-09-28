@@ -35,7 +35,6 @@ To get started with this RBM implementation, follow these steps:
 
 Install the required packages using `pip`:
 
-```bash
 pip install numpy matplotlib jupyter
 
 ## Acknowledgments
